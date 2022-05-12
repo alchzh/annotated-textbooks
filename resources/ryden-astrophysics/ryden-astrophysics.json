@@ -1,0 +1,32 @@
+{
+    "ipfs_cid": "bafykbzacedq7na4u2ftn34skditly2qyikyj5zngi2c2ppygkt3n65qumohcs",
+    "source_md5sum": "5AECFF0D5F61A3804CCAD9183AF94EF8",
+    "filename": "Barbara Ryden, Bradley Peterson - Foundations of Astrophysics-Pearson Education (2010).pdf",
+
+    "labels": {
+        "cover": {
+            "startpage": 0,
+            "prefix": "C",
+            "style": "",
+            "firstpagenum": 1
+        },
+        "front": {
+            "startpage": 1,
+            "prefix": "",
+            "style": "r",
+            "firstpagenum": 1
+        },
+        "insert": {
+            "startpage": 15,
+            "prefix": "I-",
+            "style": "D",
+            "firstpagenum": 1
+        },
+        "body": {
+            "startpage": 31,
+            "prefix": "",
+            "style": "D",
+            "firstpagenum": 1
+        }
+    }
+}
